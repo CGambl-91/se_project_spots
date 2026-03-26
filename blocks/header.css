@@ -1,0 +1,11 @@
+.header {
+  background-color: #fff;
+  text-align: center;
+}
+
+.header__logo {
+  margin: 10px 0;
+  vertical-align: bottom;
+  height: 26px;
+  width: 94px;
+}
