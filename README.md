@@ -22,5 +22,5 @@ This webpage is deployed to GitHub Pages
 
 ## Project Pitch Video
 
-Check out [this video](https://drive.google.com/file/d/17YKUmvjzNuar3SD57DiFToRw9_xhx5Kt/view?usp=drive_link), where I describe my
+Check out [this video](https://drive.google.com/file/d/15ibm-tLBw6EvVW5D89dsAP0K1r4BaZOO/view?usp=drive_link), where I describe my
 project and some challenges I faced while building it.
