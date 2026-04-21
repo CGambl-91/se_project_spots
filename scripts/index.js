@@ -37,6 +37,7 @@ function handleNewPostSubmit(evt) {
   console.log(newPostImage.value);
   console.log(newPostCaption.value);
   closeModal(newPostModal);
+  newPostFormElement.reset();
 }
 
 profileFormElement.addEventListener("submit", handleProfileFormSubmit);
