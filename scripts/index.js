@@ -90,6 +90,6 @@ newPostCloseButton.addEventListener("click", function () {
 });
 
 initialCards.forEach(function (item) {
-  console.log(`Name: ${item.name}`);
-  console.log(`Link: ${item.link}`);
+  console.log(item.name);
+  console.log(item.link);
 });
