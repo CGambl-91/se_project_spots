@@ -112,8 +112,8 @@ function handleNewPostSubmit(evt) {
     name: newPostCaption.value,
   };
 
-  const createCard = getCardElement(inputValues);
-  cardsList.prepend(createCard);
+  const newCardElement = getCardElement(inputValues);
+  cardsList.prepend(newCardElement);
 
   closeModal(newPostModal);
   newPostFormElement.reset();
@@ -142,8 +142,8 @@ newPostCloseButton.addEventListener("click", function () {
 });
 
 initialCards.forEach(function (item) {
-  const createCard = getCardElement(item);
-  cardsList.append(createCard);
+  const newCardElement = getCardElement(item);
+  cardsList.append(newCardElement);
 });
 
 imageCloseButton.addEventListener("click", () => {

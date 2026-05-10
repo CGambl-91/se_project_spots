@@ -54,7 +54,7 @@
   background-image: url(../images/close-icon.svg);
   background-color: rgb(255, 255, 255);
   background-position: center;
-  opacity: 40%;
+  opacity: 0.4;
   border: none;
   cursor: pointer;
 }
@@ -125,7 +125,7 @@
 }
 
 .modal__submit-button:hover {
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 .modal__image-container {

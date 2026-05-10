@@ -12,6 +12,10 @@
   margin: 0 0 12px;
 }
 
+.card__image:hover {
+  cursor: pointer;
+}
+
 .card__content {
   display: flex;
   justify-content: space-between;
@@ -33,7 +37,7 @@
   background-image: url(../images/like-icon.svg);
   height: 20px;
   width: 23px;
-  opacity: 40%;
+  opacity: 0.4;
   background-size: contain;
   background-repeat: no-repeat;
   border: none;
@@ -66,6 +70,7 @@
   top: 10px;
   right: 10px;
   padding: 0;
+  cursor: pointer;
 }
 
 .card__delete-button:hover {
