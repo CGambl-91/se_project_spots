@@ -68,6 +68,10 @@
 }
 
 .modal__close-button:hover {
+  opacity: 1;
+}
+
+.modal__close-button_type_preview:hover {
   opacity: 0.4;
 }
 
