@@ -24,11 +24,6 @@
   font-size: 32px;
   font-weight: 500;
   line-height: 1;
-  display: -webkit-box;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
 }
 
 .profile__subtitle {
@@ -37,6 +32,10 @@
   font-size: 16px;
   line-height: 1;
   font-weight: 500;
+}
+
+.profile__title,
+.profile__subtitle {
   display: -webkit-box;
   overflow: hidden;
   text-overflow: ellipsis;

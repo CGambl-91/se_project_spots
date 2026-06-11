@@ -114,6 +114,18 @@
   color: rgba(33, 33, 33, 0.3);
 }
 
+.modal__input_type_error {
+  border: 1px solid rgba(255, 0, 0, 0.6);
+}
+
+.modal__error {
+  color: rgba(255, 0, 0, 0.7);
+}
+
+.modal__error_visible {
+  opacity: 1;
+}
+
 .modal__submit-button {
   background-color: rgba(33, 33, 33, 1);
   font-size: 16px;
@@ -130,6 +142,11 @@
 
 .modal__submit-button:hover {
   opacity: 0.8;
+}
+
+.modal__submit-button_disabled {
+  opacity: 0.5;
+  cursor: default;
 }
 
 .modal__image-container {

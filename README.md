@@ -20,7 +20,10 @@ This webpage is deployed to GitHub Pages
 
 - [Deployment Link](https://cgambl-91.github.io/se_project_spots/)
 
-## Project Pitch Video
+## Project Pitch Videos
 
-Check out [this video](https://drive.google.com/file/d/1IQZYQUmZVJRw15Q_SgeJHF-KYbrUOvSX/view?usp=sharing), where I describe my
-project and some challenges I faced while building it.
+Check out these videos, where I describe my project
+and some challenges I faced while building it:
+
+- [Spots Stage 2: Responsive Webpage](https://drive.google.com/file/d/1IQZYQUmZVJRw15Q_SgeJHF-KYbrUOvSX/view?usp=sharing)
+- [Spots Stage 9: Form Validation and UX Improvements](https://drive.google.com/file/d/16Vc0ea39A5GF-xcINBg5JjjhJx2H4cKU/view?usp=sharing)
