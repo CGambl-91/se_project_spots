@@ -27,3 +27,4 @@ and some challenges I faced while building it:
 
 - [Spots Stage 2: Responsive Webpage](https://drive.google.com/file/d/1IQZYQUmZVJRw15Q_SgeJHF-KYbrUOvSX/view?usp=sharing)
 - [Spots Stage 9: Form Validation and UX Improvements](https://drive.google.com/file/d/16Vc0ea39A5GF-xcINBg5JjjhJx2H4cKU/view?usp=sharing)
+- [Spots Final Stage: API Interactions](https://www.loom.com/share/dbfd0220c319478b935abae23162c244)
